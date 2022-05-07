@@ -4,4 +4,3 @@ I'm working as a senior software engineer on EDA tools at [Concept Engineering G
 
 [![flopp's github stats](https://github-readme-stats.vercel.app/api?username=flopp)](https://github.com/anuraghazra/github-readme-stats)
 
-![Visitor Count](https://counter.flopp.net/badge/flopp/flopp.svg)
