@@ -2,8 +2,6 @@
 
 I'm working as a senior software engineer on formal verification tools at [Siemens EDA](https://eda.sw.siemens.com/).
 
-[![flopp's github stats](https://github-readme-stats.vercel.app/api?username=flopp)](https://github.com/anuraghazra/github-readme-stats)
-
 Some of my (hobby) projects:
 
 - [flopp.net](https://flopp.net), a mapping SPA specifically targeting the needs of geocachers
